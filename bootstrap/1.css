@@ -1,0 +1,54 @@
+.accordion {
+    background-color: #b18787;
+    color: #444;
+    cursor:default;
+    padding: 15px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+  }
+  
+  /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+  
+  /* Style the accordion panel. Note: hidden by default */
+  .accordion-item {
+    padding: 18px;
+    background-color: rgb(237, 235, 247);
+    display:inline-flexbox;
+    overflow: hidden;
+    background-color: beige;
+    
+  }
+  .row
+  {
+    margin: 5px;
+  }
+  .example{
+    background-color: white;
+  }
+  .carousel-inner{
+    width: 30%;
+  }
+
+  .dropdown-toggle{
+    color: rgb(20, 40, 40);
+    border-style:dotted;
+  }
+
+  .dropdown-menu{
+
+    font-size: 40px;
+    font-style: italic;
+  }
+
+
+  .list-group-item{
+    font-family: 'Times New Roman', Times, serif;
+    color: blue ;              ;
+   
+  }
+
+
+
+  

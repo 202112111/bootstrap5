@@ -1,0 +1,26 @@
+.navbar{
+    background-color:rgb(49, 164, 39);
+}
+.collapse{
+    justify-content: end;
+    margin: 10px;
+    padding: 5px;
+    font-size: 18px;
+}
+.btn1{
+    justify-content: center;
+}
+
+.bt{
+    border: 10px;
+    border-radius: 10px;
+}
+
+.pop1{
+    border-radius: 10px;
+}
+
+.tool   {
+  padding: 11px;
+}
+

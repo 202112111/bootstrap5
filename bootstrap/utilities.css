@@ -1,0 +1,49 @@
+.a {
+    display: contents;
+    border: 5px solid red;
+    background-color: grey;
+    padding: 10px;
+    width: 200px;
+  
+  }
+  .b {
+    border: 2px solid blue;
+    background-color: lightblue;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 6px;
+  }
+
+  .c{
+    border: 2px solid blue;
+    background-color: lightblue;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+
+  }
+  .link-pri {
+    color: #842029!important;
+}
+
+.form-control {
+  display: block;
+  width: 30%;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 40;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 3px solid #ced4da;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border-radius: 0.39rem;
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+} 
+
+
+
+
